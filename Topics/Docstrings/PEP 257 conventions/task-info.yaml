@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: There should be empty strings either before or after the docstring.
+  - text: "It is recommended that the description be written in the imperative mood\
+    \ (e.g., 'Do this', 'Return that')"
+  - text: "For one-line docstrings, the opening and closing quotes should be on the\
+    \ same line."
+  - text: Multi-line docstrings are recommended to consist of a one-line summary followed
+      by a more detailed description.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15302#comment
+status: Solved
+record: -1
+local_check: false

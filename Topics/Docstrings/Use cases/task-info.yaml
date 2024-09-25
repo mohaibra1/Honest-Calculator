@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Briefly describe the object's functionality.
+  - text: Clarify difficult steps in the code.
+  - text: Describe all the implementation details.
+  - text: Describe how you can use the given object.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11870#comment
+status: Solved
+record: -1
+local_check: false

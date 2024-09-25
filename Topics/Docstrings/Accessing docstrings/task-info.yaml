@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>help('json.load')</code>
+  - text: <code>look at the source code</code>
+  - text: <code>help(json.load)</code>
+  - text: <code>json.load.__doc__</code>
+  - text: <code>help(json.load())</code>
+  - text: <code>json.load.__docstring__</code>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15300#comment
+status: Solved
+record: -1
+local_check: false
